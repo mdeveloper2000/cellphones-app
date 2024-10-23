@@ -1,0 +1,25 @@
+{
+    "cellphones": [
+        {
+            "id": 1,
+            "name": "",
+            "image": "",
+            "battery": "",
+            "screen": ""
+        },
+        {
+            "id": 2,
+            "name": "",
+            "image": "",
+            "battery": "",
+            "screen": ""
+        },
+        {
+            "id": 3,
+            "name": "",
+            "image": "",
+            "battery": "",
+            "screen": ""
+        }
+    ]
+}
